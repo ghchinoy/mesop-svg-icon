@@ -1,6 +1,6 @@
 # mesop svg_icon_component
 
-This is a Mesop web_component implementation to provide an SVG icon.
+This is a [Mesop](https://google.github.io/mesop/) web_component implementation to provide an SVG icon.
 
 ## Usage
 
