@@ -18,8 +18,10 @@ use the component with a full `<svg> ... </svg>` element in a mesop.Page
  svg_icon_component(svg="""<svg data-icon-name="exampleIcon" .... </svg>""")
 ```
 
+## Examples
 
+* `main.py` contains an example
 
-main.py contains an example
+* [colab example](https://colab.research.google.com/drive/1PNJnlNloIWEja_MDtDGQjhBu1OdI_aDU)
 
 
