@@ -1,7 +1,7 @@
 import mesop as me
 import mesop.labs as mel
 
-from svg_icon_component import (
+from svg_icon.svg_icon_component import (
     svg_icon,
 )
 

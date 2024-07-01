@@ -20,7 +20,7 @@ use the component with a full `<svg> ... </svg>` element in a mesop.Page
 
 ## Examples
 
-* `main.py` contains an example
+* `svg_icon_app.py` contains an example
 
 * [colab example](https://colab.research.google.com/drive/1PNJnlNloIWEja_MDtDGQjhBu1OdI_aDU)
 
