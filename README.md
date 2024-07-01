@@ -1,4 +1,4 @@
-# mesop svg_icon_component
+# mesop svg_icon web component
 
 This is a [Mesop](https://google.github.io/mesop/) web_component implementation to provide an SVG icon.
 
@@ -8,14 +8,14 @@ import the component
 
 ```
 from svg_icon.svg_icon_component import (
-    svg_icon_component,
+    svg_icon,
 )
 ```
 
 use the component with a full `<svg> ... </svg>` element in a mesop.Page
 
 ```
- svg_icon_component(svg="""<svg data-icon-name="exampleIcon" .... </svg>""")
+ svg_icon(svg="""<svg data-icon-name="exampleIcon" .... </svg>""")
 ```
 
 ## Examples

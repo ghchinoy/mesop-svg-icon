@@ -1,7 +1,7 @@
 import mesop.labs as mel
 
 @mel.web_component(path="./svg_icon_component.js")
-def svg_icon_component(
+def svg_icon(
   *,
   svg: str | None = None,
   key: str | None = None,
